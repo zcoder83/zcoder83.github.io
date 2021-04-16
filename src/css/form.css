@@ -1,0 +1,13 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+    color: red;
+    padding-right: 5px;
+}
+#desc,#pName, #pEmail {
+    width: 65%;
+}
+#note, #license {
+    width: 67.5%;
+}
